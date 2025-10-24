@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "TagOff - Premium Streetwear Resale Marketplace",
+  description: "Authentic designer streetwear, sneakers, and fashion accessories. Curated heat at unbeatable prices.",
 };
 
 export default function RootLayout({
